@@ -1,5 +1,5 @@
-# resumo-git
-resumo sobre o laboratório azure:
+# Resumo-git
+Resumo sobre o laboratório azure:
 
 Localizando serviços por categoria no laboratório da Nuvem Azure
 
